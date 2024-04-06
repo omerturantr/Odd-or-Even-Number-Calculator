@@ -1,6 +1,6 @@
 import java.util.Scanner;     // Activing 'Scanner' Library
 
-public class EvenOrOdd {
+public class Even_or_Odd {
     public static void main(String[] args) {
 
         int number;     // Declaring the Variable
